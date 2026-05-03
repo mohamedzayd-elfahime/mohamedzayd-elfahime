@@ -17,4 +17,4 @@ End-to-end MASI risk forecasting dashboard with FastAPI, ML models, VaR/ES backt
 Research notebooks for MASI downside-risk modeling, VaR/ES backtesting, GARCH benchmarks, and hybrid LSTM risk forecasting.
 
 [View project](https://github.com/mohamedzayd-elfahime/masi-risk-research-notebooks)
-![MASI Research Plot](https://raw.githubusercontent.com/mohamedzayd-elfahime/masi-risk-research-notebooks/main/screenshots/garch_var_es_backtesting.png)
+![MASI Research Plot](https://raw.githubusercontent.com/mohamedzayd-elfahime/masi-risk-research-notebooks/main/screenshots/lstm_var_es_forecasts.png)

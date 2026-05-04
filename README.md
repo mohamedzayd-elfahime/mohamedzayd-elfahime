@@ -1,5 +1,32 @@
 # Mohamed Zayd Elfahime
 
+**Data Science & Artificial Intelligence Engineering Student**  
+Applied AI · Machine Learning · Deep Learning · NLP · Computer Vision · Time Series · Statistical Modeling · Full-Stack AI Systems
+
+---
+
+## About Me
+
+I am a brilliant engineering student specialized in **Data Science and Artificial Intelligence**.  
+My work focuses on building applied AI systems that combine rigorous modeling, clean software architecture, and practical user interfaces.
+
+My main areas of interest include:
+
+- Machine Learning and Deep Learning
+- Natural Language Processing
+- Computer Vision
+- Time-Series Forecasting
+- Statistical Modeling and Econometrics
+- Financial Risk Analytics
+- Backend and Frontend Development
+- UI/UX-oriented AI Applications
+- FastAPI, Java, Python, and full-stack software engineering
+
+I enjoy developing projects that connect theory, data, models, and real applications.
+
+---
+
+
 ## Featured Projects
 
 ### MASI Risk Forecasting Dashboard

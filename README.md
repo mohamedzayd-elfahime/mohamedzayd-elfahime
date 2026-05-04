@@ -27,3 +27,16 @@ A Library Management API built with FastAPI and Clean Architecture, featuring JW
 
 [View project](https://github.com/mohamedzayd-elfahime/e-bib)
 ![MASI Research Plot](https://raw.githubusercontent.com/mohamedzayd-elfahime/e-bib/main/screenshots/2-home_page.jpeg)
+
+---
+
+### yazaki-competition(front end)
+
+Frontend prototype for a Yazaki DFC/ECO workflow dashboard, prepared for a competition submission.
+
+[View project](https://github.com/mohamedzayd-elfahime/yazaki-frontend-competition)
+![MASI Research Plot](https://raw.githubusercontent.com/mohamedzayd-elfahime/yazaki-frontend-competition/main/screenshots/dashboard.png)
+
+
+
+

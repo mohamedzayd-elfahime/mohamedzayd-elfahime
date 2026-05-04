@@ -57,7 +57,7 @@ A Library Management API built with FastAPI and Clean Architecture, featuring JW
 
 ---
 
-### yazaki-competition(front end)
+### yazaki-frontend-competition-dashboard
 
 Frontend prototype for a Yazaki DFC/ECO workflow dashboard, prepared for a competition submission.
 

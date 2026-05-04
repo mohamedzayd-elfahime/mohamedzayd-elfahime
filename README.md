@@ -18,3 +18,12 @@ Research notebooks for MASI downside-risk modeling, VaR/ES backtesting, GARCH be
 
 [View project](https://github.com/mohamedzayd-elfahime/masi-risk-research-notebooks)
 ![MASI Research Plot](https://raw.githubusercontent.com/mohamedzayd-elfahime/masi-risk-research-notebooks/main/screenshots/lstm_var_es_forecasts.png)
+
+---
+
+###  e-bib
+
+A Library Management API built with FastAPI and Clean Architecture, featuring JWT authentication, MySQL, reservations, borrowings, favorites, and reviews.
+
+[View project](https://github.com/mohamedzayd-elfahime/e-bib)
+![MASI Research Plot](https://raw.githubusercontent.com/mohamedzayd-elfahime/e-bib/main/screenshots/2-home_page.jpeg)
